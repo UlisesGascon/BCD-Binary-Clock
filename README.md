@@ -27,7 +27,7 @@ El script esta listo para ejecutarse, pero existen opciones addicionales:
 	var debugMode = false; // o true
 	~~~
 
-- El LCD es opcional y se peude habilitar o deshabilitar.
+- El LCD es opcional y se puede habilitar o deshabilitar.
 	~~~
 	var LCDisEnable = true; // o false
 	~~~
@@ -37,7 +37,7 @@ El script esta listo para ejecutarse, pero existen opciones addicionales:
 	var matrixBrightness = 2; // 0-100
 	~~~
 
-- Se puede ajustar la velocidad de la repetición facilmente, en caso de detectar un desfase o una desincronizacion entre el LCD y la matriz de Leds.
+- Se puede ajustar la velocidad de la repetición facilmente, en caso de detectar un desfase o una desincronización entre el LCD y la matriz de Leds.
 	~~~
 	var intervalMS = 1000; // valor en ms. Recomendado: 1000
 	~~~
@@ -45,7 +45,11 @@ El script esta listo para ejecutarse, pero existen opciones addicionales:
 
 
 ## Hardware necesario:
+![Conexiones](https://github.com/UlisesGascon/BCD-Binary-Clock/blob/master/img/protoboard.png)
+*Nota: el LCD tiene que tener instalado I2C. En la imagen, no lo es, pero los cables estan conectados como si fuera I2C*
+
 **Placa Arduino UNO o similar**
+
 
 **Led Matrix 8x16 I2C**
 ![Prodcut 2054](http://www.adafruit.com/images/1200x900/2054-00.jpg)
@@ -55,10 +59,11 @@ El script esta listo para ejecutarse, pero existen opciones addicionales:
 
 
 **LCD 20x4 con I2C**
-Pantalla LCD
+
+*Pantalla LCD*
 ![Product 198](http://www.adafruit.com/images/970x728/x198-04.jpg.pagespeed.ic.diHsBxj06P.webp)
 
-I2C Backpack
+*I2C Backpack*
 ![Product i2c](https://learn.adafruit.com/system/assets/assets/000/001/874/medium260/lcds___displays_i2cwire_t.jpeg?1396777095)
 
 
