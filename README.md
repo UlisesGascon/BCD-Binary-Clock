@@ -50,12 +50,11 @@ El script esta listo para ejecutarse, pero existen opciones addicionales:
 **Led Matrix 8x16 I2C**
 ![Prodcut 2054](http://www.adafruit.com/images/1200x900/2054-00.jpg)
 
-Más información sobre [este producto en Adafruit](http://www.adafruit.com/products/2054)
-Para adaptar este script a otro dispositivo, consulta [Johnny-five API](http://johnny-five.io/api/led/)
+- Más información sobre [este producto en Adafruit](http://www.adafruit.com/products/2054)
+--Para adaptar este script a otro dispositivo, consulta [Johnny-five API](http://johnny-five.io/api/led/)
 
 
 **LCD 20x4 con I2C**
-
 Pantalla LCD
 ![Product 198](http://www.adafruit.com/images/970x728/x198-04.jpg.pagespeed.ic.diHsBxj06P.webp)
 
@@ -63,9 +62,9 @@ I2C Backpack
 ![Product i2c](https://learn.adafruit.com/system/assets/assets/000/001/874/medium260/lcds___displays_i2cwire_t.jpeg?1396777095)
 
 
-Más información sobre [Pantalla LCD en Adafruit](http://www.adafruit.com/products/198)
-Más información sobre [I2C Backpack en Adafruit](https://learn.adafruit.com/i2c-spi-lcd-backpack)
-Para adaptar este script a otro dispositivo, consulta [Johnny-five API](http://johnny-five.io/api/lcd/)
+- Más información sobre [Pantalla LCD en Adafruit](http://www.adafruit.com/products/198)
+- Más información sobre [I2C Backpack en Adafruit](https://learn.adafruit.com/i2c-spi-lcd-backpack)
+- Para adaptar este script a otro dispositivo, consulta [Johnny-five API](http://johnny-five.io/api/lcd/)
 
 
 
