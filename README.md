@@ -51,7 +51,7 @@ El script esta listo para ejecutarse, pero existen opciones addicionales:
 ![Prodcut 2054](http://www.adafruit.com/images/1200x900/2054-00.jpg)
 
 - Más información sobre [este producto en Adafruit](http://www.adafruit.com/products/2054)
---Para adaptar este script a otro dispositivo, consulta [Johnny-five API](http://johnny-five.io/api/led/)
+- Para adaptar este script a otro dispositivo, consulta [Johnny-five API](http://johnny-five.io/api/led/)
 
 
 **LCD 20x4 con I2C**
