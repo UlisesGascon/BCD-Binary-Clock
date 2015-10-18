@@ -1,6 +1,10 @@
 # BCD-Binary-Clock
 Un reloj binario tipo BCD con Arduino y Nodejs
 
+## El código desglosado:
+
+Todo el código de este script esta [explicado en mi blog](http://goo.gl/TfI4Bh)
+
 ## Descripción:
 
 ![Animación](https://github.com/UlisesGascon/BCD-Binary-Clock/blob/master/img/demo.gif)
