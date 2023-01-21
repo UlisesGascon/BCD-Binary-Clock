@@ -1,3 +1,5 @@
+<h2 align="center">:warning: This repository is not longer maintained :warning:</h2>
+
 # BCD-Binary-Clock
 Un reloj binario tipo BCD con Arduino y Nodejs
 
