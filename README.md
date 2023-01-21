@@ -3,7 +3,7 @@ Un reloj binario tipo BCD con Arduino y Nodejs
 
 ## El código desglosado:
 
-Todo el código de este script esta [explicado en mi blog](http://goo.gl/TfI4Bh)
+Todo el código de este script esta [explicado en mi blog](https://blog.ulisesgascon.com/reloj-binario-con-nodejs-y-arduino)
 
 ## Descripción:
 
